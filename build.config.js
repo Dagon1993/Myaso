@@ -69,6 +69,7 @@ module.exports = {
       'vendor/angular-ui-utils/modules/route/route.js'
     ],
     css: [
+      'vendor/normalize.css/normalize.css'
     ],
     assets: [
     ]
